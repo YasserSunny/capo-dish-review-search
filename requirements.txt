@@ -1,0 +1,11 @@
+googlemaps
+python-dotenv
+python-google-places
+langchain-google-genai
+langchain
+nltk
+pandas
+fastapi
+uvicorn
+gunicorn
+pydantic
